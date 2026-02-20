@@ -1,0 +1,13 @@
+{
+  "name": "leetmetric",
+  "version": "1.0.0",
+  "description": "LeetCode stats tracker with serverless backend",
+  "main": "api/leetcode.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["leetcode", "stats", "tracker"],
+  "author": "",
+  "license": "MIT"
+}
